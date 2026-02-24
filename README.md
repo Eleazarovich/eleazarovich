@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Java and Automation**
 
-- 📫 How to reach me **eleazarovich176@gmail.com**
+- 📫 How to reach me **eleazar.nhamuave3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
